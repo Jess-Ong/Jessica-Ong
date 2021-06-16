@@ -1,5 +1,7 @@
 # Jessica-Ong
 <!-- copied from https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/README.md -->
+<!-- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+<!-- https://daringfireball.net/projects/markdown/syntax -->
 
 <!-- CONTACT Section Starts -->
 ### CONTACT
@@ -20,67 +22,39 @@
 
 I am __Jessica Ong__, a consumer insights researcher in the broadcast / entertainment industry. Highly skilled in analyzing market data to provide customer led actionable insights to aid audience targeting and program scheduling. Adept at delivering timely and regular updates across Asia Pacific markets to key internal stakeholders. Demonstrated skills in qualitative and quantitative project management spanning key Asian markets.
 
-
 <!-- Add link to the sections -->
-[Experience](#experience) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Education](#education) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Projects](#projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Featured](#featured) 
-
-
+[Experience](#experience) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Education](#education) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Featured](#featured) 
 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### XX
+XX <br>
+mm-yyyy to Present: x year x Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: xxx
+UNIT: xxx
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### NUS
+Bachelor of Social Sciences
 
 <!-- EDUCATION Section Ends -->
-
-<!-- PROJECTS Section Starts -->
-### PROJECTS
-<!-- Add your details -->
-
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
-
-<!-- Add your details -->
-
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
-
-<!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+RISE by DigitalBCG Academy - Business and Data Analytics 
 
 ##### Achievements
-Star performer of the year at Accenture
+xxx
 <!-- FEATURED Section Ends -->
