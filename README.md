@@ -5,8 +5,8 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: jessica_ong@gmail.com 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/jessica-o-a2a53369) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](jessica.ong@gmail.com)
 
 <!-- CONTACT Section Ends -->
 
@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/Jess-Ong/Jessica-Ong/raw/main/LinkedIn.png)
 
 <!-- Add your details -->
 
@@ -22,10 +22,9 @@ I am __Jessica Ong__, a consumer insights researcher in the broadcast / entertai
 
 
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
-[Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
+[Experience](#experience) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Education](#education) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Projects](#projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Featured](#featured) 
+
+
 
 <!-- ABOUT Section Ends -->
 
