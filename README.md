@@ -50,7 +50,7 @@ Bachelor of Social Sciences
 <!-- EDUCATION Section Ends -->
 
 <!-- FEATURED Section Starts -->
-## FEATURED
+### FEATURED
 <!-- Add your details -->
 ##### Certifications
 RISE by DigitalBCG Academy - Business and Data Analytics 
