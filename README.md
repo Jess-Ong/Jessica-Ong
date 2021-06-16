@@ -6,9 +6,8 @@
 
 <!-- Add your details -->
 ✉️: jessica_ong@gmail.com 
-&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/jessica-o-a2a53369) 
+
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
